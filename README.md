@@ -42,12 +42,6 @@ Tested the following models using all features:
 
 ---
 
-## Files
-
-- `bmi_model.ipynb` – Univariate models using BMI
-- `all_features_models.ipynb` – Multivariate models using all features
-
----
 
 ## 🔧 Requirements
 
